@@ -1,4 +1,4 @@
-package java_OrnekCalişmalar;
+package java_OrnekCalismalar;
 
 public class Ornek {
 
@@ -21,6 +21,8 @@ public class Ornek {
 
             }
             System.out.println("");
+
+
 
 
         }

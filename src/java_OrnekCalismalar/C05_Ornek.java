@@ -1,4 +1,4 @@
-package java_OrnekCalişmalar;
+package java_OrnekCalismalar;
 
 import java.util.Arrays;
 
