@@ -18,8 +18,9 @@ public class C11_CustomerArrayListMain {
 
         //her new dediğimizde bir referans numarasi olusur. customers.remove dediğimiz halde içine yazdigimiz
         //new tekrardan bir referans numarasi tutacagi icin bu islemi silmez.
-        //bu islemi C11_CustomerArrayList consructor indan bir obje uretip bu objenin icine koydugumuzda silme isleminde
-        //
+        //bu islemi C11_CustomerArrayList consructor indan bir obje uretip bu objenin icine koydugumuzda silme
+        //islemini yapabiliriz
+
 
         for (C11_CustomerArrayList customer : customers) {
             System.out.println(customer.firstName);
